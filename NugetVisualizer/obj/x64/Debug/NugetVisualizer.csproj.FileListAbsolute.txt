@@ -1,0 +1,11 @@
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\bin\x64\Debug\NugetVisualizer.exe.config
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\bin\x64\Debug\NugetVisualizer.exe
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\bin\x64\Debug\NugetVisualizer.pdb
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\obj\x64\Debug\NugetVisualizer.Form1.resources
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\obj\x64\Debug\NugetVisualizer.Properties.Resources.resources
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\obj\x64\Debug\NugetVisualizer.csproj.GenerateResource.Cache
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\obj\x64\Debug\NugetVisualizer.exe
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\obj\x64\Debug\NugetVisualizer.pdb
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\bin\x64\Debug\Microsoft.Web.XmlTransform.dll
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\bin\x64\Debug\NuGet.Core.dll
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\obj\x64\Debug\NugetVisualizer.csprojResolveAssemblyReference.cache

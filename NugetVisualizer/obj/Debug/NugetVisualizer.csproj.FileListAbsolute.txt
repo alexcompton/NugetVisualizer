@@ -1,0 +1,1 @@
+C:\FS\NugetVisualizer\NugetVisualizer\NugetVisualizer\bin\Debug\NugetVisualizer.exe.config
