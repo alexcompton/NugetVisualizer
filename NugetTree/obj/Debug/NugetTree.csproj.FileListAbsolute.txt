@@ -1,0 +1,14 @@
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\bin\Debug\NugetTree.dll
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\bin\Debug\NugetTree.pdb
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\obj\Debug\NugetTree.dll
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\obj\Debug\NugetTree.pdb
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\bin\Debug\NuGet.Core.dll
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\obj\Debug\NugetTree.csprojResolveAssemblyReference.cache
+C:\Alex\NugetVisualizer\NugetTree\bin\Debug\NugetTree.dll
+C:\Alex\NugetVisualizer\NugetTree\bin\Debug\NugetTree.pdb
+C:\Alex\NugetVisualizer\NugetTree\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Alex\NugetVisualizer\NugetTree\bin\Debug\NuGet.Core.dll
+C:\Alex\NugetVisualizer\NugetTree\obj\Debug\NugetTree.csprojResolveAssemblyReference.cache
+C:\Alex\NugetVisualizer\NugetTree\obj\Debug\NugetTree.dll
+C:\Alex\NugetVisualizer\NugetTree\obj\Debug\NugetTree.pdb

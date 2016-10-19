@@ -1,0 +1,4 @@
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\bin\Debug\NugetTree.dll
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\bin\Debug\NugetTree.pdb
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\obj\Debug\NugetTree.dll
+C:\Users\alexc\Desktop\NugetVisualizer-master\NugetTree\obj\Debug\NugetTree.pdb
